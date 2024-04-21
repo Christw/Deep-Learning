@@ -5,7 +5,7 @@
 Supervised learning
 
 ### Project Summary
-Use medical images to diagnose various lung and colon cancers using computer vision techniques
+Use medical images to diagnose various lung and colon cancers using computer vision techniques.
 
 ### Data
 #### Data Description
