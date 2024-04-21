@@ -17,7 +17,7 @@ This dataset contains color 25,000 images with 5 classes of 5,000 images each. I
 * Colon_image_sets/colon_aca :     5000
 
 #### Data Files
-This research used Lung and Colon Cancer Histopathological Image Dataset (LC25000), which is published on academictorrents for research purposes (https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af).
+This research used Lung and Colon Cancer Histopathological Image Dataset (LC25000), which is published on [academictorrents](https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af) for research purposes.
 
 
 #### Data Files
